@@ -1,9 +1,9 @@
 # COS 201 - Computer Programming I
 
 ## Student Information
-- Name: Enter your full name
-- Matriculation Number: Enter your matriculation number
-- Programme: Enter your programme (CSC/CYB/INS/SEN/ICH)
+- Name: Adeyemi Daniel Adedeji 
+- Matriculation Number: 25/16514
+- Programme: Software Engineering 
 - Course: COS 201
 
 ## Week 1: Introduction to Programming and Problem-Solving
